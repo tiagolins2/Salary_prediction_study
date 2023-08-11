@@ -10,3 +10,6 @@ In order to achieve this end, several steps will be undertaken to evaluate the d
 
 [Notebook](Salary Prediction.ipynb)
 
+[Summary](https://github.com/tiagolins2/Salary_prediction_study/blob/main/Salary%20Prediction%20Study.pdf)
+
+
