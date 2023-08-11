@@ -8,8 +8,6 @@ b) Train models to predict the salaries
 
 In order to achieve this end, several steps will be undertaken to evaluate the data, visualize it and characterize important features and their relationship to salary using machine learning methods
 
-[Notebook](Salary Prediction.ipynb)
 
-[Summary](https://github.com/tiagolins2/Salary_prediction_study/blob/main/Salary%20Prediction%20Study.pdf)
 
 
